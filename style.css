@@ -1,0 +1,129 @@
+.modal-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #000000;
+
+}
+
+.dummy-content {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.6);
+    width: 470px;
+    height: 16px;
+}
+
+.input-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #000000;
+}
+.link-input {
+    box-sizing: border-box;
+    width: 327px;
+    height: 36px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+.copy-btn{
+width: 140px;
+height: 36px;
+color: #FFFFFF;
+background: #0F1113;
+border-radius: 4px;
+}
+.input-content{
+    gap: 6px;
+    justify-content: center;
+    margin-bottom: 22px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.No-btn{
+    width: 154px;
+height: 41px;
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+color: #FFFFFF;
+background: #0F1113;
+border-radius: 4px;
+}
+.Yes-btn{
+    width: 154px;
+height: 41px;
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+color: #FFFFFF;
+background: #0F1113;
+border-radius: 4px;
+}
+.Date-Selection {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #000000;
+}
+.date-input {
+    box-sizing: border-box;
+    width: 300px;
+    height: 36px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+.Extend-btn {
+    width: 94px;
+    height: 35px;
+    background: #000000;
+    border-radius: 4px;
+    color: #FFFFFF;
+}
+.btn-extend {
+    margin-top: 36px;
+}
+.buttons {
+    gap: 18px;
+}
+.modal-form-label {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #000000;
+}
+.form-group ::placeholder {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #214061;
+}
+.submit-btn {
+    width: 189px;
+    height: 35px;
+    color: #FFFFFF;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    background: #000000;
+    border-radius: 4px;
+}
+
+.edit-btn {
+    background: #FFFFFF;
+    border-radius: 4px;
+}
